@@ -1,0 +1,30 @@
+.text-position {
+  padding: 20px;
+  margin-left: 300px;
+  }
+  .row {
+    margin-bottom: 30px;
+  }
+
+  .img-slide {
+  position: absolute;
+  z-index: -1;
+  }
+  mat-card {
+    max-width: 80%;
+    margin: 2em auto;
+    text-align: center;
+  }
+  .productBox img {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+    border-radius: 5px;
+  }
+  .productBox {
+    padding: 10px 5px;
+  }
+  .pagination-controls {
+    display: flex;
+    justify-content: center;
+  }
